@@ -8,6 +8,12 @@ black = "*"
 
 [packages]
 sqlsorcery = "*"
+jinja2 = "*"
+pydrive = "*"
+pdfkit = "*"
+flask = "*"
+pypdf2 = "*"
+tenacity = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
